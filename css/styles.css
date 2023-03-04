@@ -1,0 +1,41 @@
+body {
+    font-family: Roboto, sans-serif;
+    font-style: normal;
+    color: #2E2F42;
+}
+
+/* Buttons */
+.title {}
+
+.button-list {
+    list-style: none;
+}
+
+text .button:hover,
+.button:focus {
+    color: #404BBF;
+}
+
+/* /Buttons */
+
+/* Images */
+.images-list {
+    list-style: none;
+}
+
+.list-title {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+}
+
+.list-subtitle {
+    color: #434455;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+
+/* /images */
